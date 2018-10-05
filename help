@@ -1,0 +1,9 @@
+1.The following libraries needs to be installed:
+pandas
+sklearn
+numpy
+scipy
+
+2.For saving the test data's output create a .csv file and set the path.
+
+3.Accuracy calculated is on validation set as the test csv file doesn't have the popularity values.
